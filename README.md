@@ -1,4 +1,4 @@
-Simple Command-Line To-Do List 📝
+#Simple Command-Line To-Do List 📝
 
 A minimalist, Python-based To-Do List application that runs in the command line. This project is designed for users who need a quick and easy way to manage tasks without a graphical user interface or external database.
 
