@@ -1,14 +1,14 @@
-#Simple Command-Line To-Do List 📝
+# Simple Command-Line To-Do List 📝
 
 A minimalist, Python-based To-Do List application that runs in the command line. This project is designed for users who need a quick and easy way to manage tasks without a graphical user interface or external database.
 
-Features ✨
+# Features ✨
 
-    Add Task: Easily append new tasks to your list.
+ Add Task: Easily append new tasks to your list.
 
-    View Tasks: Display all current tasks with their corresponding numbers.
+  View Tasks: Display all current tasks with their corresponding numbers.
 
-    Delete Task: Remove a completed or unwanted task by its number.
+ Delete Task: Remove a completed or unwanted task by its number.
 
     Simple Interface: Intuitive, text-based menu for navigation.
 
