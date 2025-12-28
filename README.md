@@ -30,7 +30,7 @@ To run this application, you only need:
 
     python todo_list.py
 
-#How to Use 💡
+# How to Use 💡
 
 Once the application starts, you will be presented with the main menu:
 
@@ -49,24 +49,24 @@ Option	Description	Action
 3	View Tasks	Displays your entire list with numbered items.
 4	Exit	Closes the application.
 
-Project Structure 🧑‍💻
+# Project Structure 🧑‍💻
 
 The application is structured into clear, modular functions:
 
-    display_menu(): Shows the user the available options.
+   display_menu(): Shows the user the available options.
 
-    add_task(tasks): Handles adding a new task to the list (the tasks list).
+   add_task(tasks): Handles adding a new task to the list (the tasks list).
 
-    delete_task(tasks): Handles removing a task by its index.
+   delete_task(tasks): Handles removing a task by its index.
 
-    view_tasks(tasks): Prints the current list of tasks.
+   view_tasks(tasks): Prints the current list of tasks.
 
-    main(): The primary execution loop that manages user input and calls the corresponding functions.
+   main(): The primary execution loop that manages user input and calls the corresponding functions.
 
-Future Enhancements (Ideas) 💡
+# Future Enhancements (Ideas) 💡
 
-    Adding functionality to save and load tasks to/from a file (e.g., CSV or JSON) so the list persists after exiting.
+   Adding functionality to save and load tasks to/from a file (e.g., CSV or JSON) so the list persists after exiting.
 
-    Adding a feature to mark tasks as complete (e.g., with a [DONE] tag).
+   Adding a feature to mark tasks as complete (e.g., with a [DONE] tag).
 
-    Implementing input validation to handle non-integer inputs gracefully.
+   Implementing input validation to handle non-integer inputs gracefully.
