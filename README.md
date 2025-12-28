@@ -10,26 +10,27 @@ A minimalist, Python-based To-Do List application that runs in the command line.
 
  Delete Task: Remove a completed or unwanted task by its number.
 
-    Simple Interface: Intuitive, text-based menu for navigation.
+   Simple Interface: Intuitive, text-based menu for navigation.
 
-Prerequisites 🛠️
+# Prerequisites 🛠️
 
 To run this application, you only need:
 
-    Python 3.x (The code is written in standard Python and requires no external libraries).
+   Python 3.x (The code is written in standard Python and requires no external libraries).
 
-Installation and Setup 🚀
+# Installation and Setup 🚀
 
-    Save the Code: Save the provided Python code into a file named todo_list.py.
+   Save the Code: Save the provided Python code into a file named todo_list.py.
 
-    Open Terminal: Navigate to the directory where you saved the file using your terminal or command prompt.
+   Open Terminal: Navigate to the directory where you saved the file using your terminal or command prompt.
 
-    Run the Application: Execute the script using the Python interpreter:
+   Run the Application: Execute the script using the Python interpreter:
+   
     Bash
 
     python todo_list.py
 
-How to Use 💡
+#How to Use 💡
 
 Once the application starts, you will be presented with the main menu:
 
